@@ -1,3 +1,4 @@
 # Dependency directories
 /core/node_modules/
 /express/node_modules/
+/MVC/node_modules/
